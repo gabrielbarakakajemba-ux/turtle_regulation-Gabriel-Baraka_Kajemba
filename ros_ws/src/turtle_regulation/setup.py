@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'my_pkg_Tp'
+package_name = 'turtle_regulation'
 
 setup(
     name=package_name,
@@ -24,6 +24,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'set_way_point = turtle_regulation.set_way_point:main',
         ],
     },
 )

@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/turtle_regulation/turtle_regulation.egg-info
+writing ../../build/turtle_regulation/turtle_regulation.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtle_regulation/turtle_regulation.egg-info/dependency_links.txt
+writing requirements to ../../build/turtle_regulation/turtle_regulation.egg-info/requires.txt
+writing top-level names to ../../build/turtle_regulation/turtle_regulation.egg-info/top_level.txt
+writing manifest file '../../build/turtle_regulation/turtle_regulation.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtle_regulation/turtle_regulation.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtle_regulation/turtle_regulation.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/build
+creating /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/build/lib
+creating /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/build/lib/turtle_regulation
+copying turtle_regulation/set_way_point.py -> /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/build/lib/turtle_regulation
+copying turtle_regulation/__init__.py -> /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/build/lib/turtle_regulation
+running install
+running install_lib
+creating /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/python3.12/site-packages/turtle_regulation
+copying /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/build/lib/turtle_regulation/set_way_point.py -> /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/python3.12/site-packages/turtle_regulation
+copying /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/build/lib/turtle_regulation/__init__.py -> /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/python3.12/site-packages/turtle_regulation
+byte-compiling /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/python3.12/site-packages/turtle_regulation/set_way_point.py to set_way_point.cpython-312.pyc
+byte-compiling /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/python3.12/site-packages/turtle_regulation/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/share/ament_index
+creating /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/share/ament_index/resource_index
+creating /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/share/ament_index/resource_index/packages
+copying resource/turtle_regulation -> /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/share/ament_index/resource_index/packages
+copying package.xml -> /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/share/turtle_regulation
+running install_egg_info
+Copying ../../build/turtle_regulation/turtle_regulation.egg-info to /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/python3.12/site-packages/turtle_regulation-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/install.log'

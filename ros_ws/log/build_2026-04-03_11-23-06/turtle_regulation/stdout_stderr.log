@@ -1,0 +1,19 @@
+running egg_info
+writing ../../build/turtle_regulation/turtle_regulation.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtle_regulation/turtle_regulation.egg-info/dependency_links.txt
+writing entry points to ../../build/turtle_regulation/turtle_regulation.egg-info/entry_points.txt
+writing requirements to ../../build/turtle_regulation/turtle_regulation.egg-info/requires.txt
+writing top-level names to ../../build/turtle_regulation/turtle_regulation.egg-info/top_level.txt
+reading manifest file '../../build/turtle_regulation/turtle_regulation.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtle_regulation/turtle_regulation.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/python3.12/site-packages/turtle_regulation-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/turtle_regulation/turtle_regulation.egg-info to /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/python3.12/site-packages/turtle_regulation-0.0.0-py3.12.egg-info
+running install_scripts
+Installing set_way_point script to /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/turtle_regulation
+writing list of installed files to '/home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/install.log'

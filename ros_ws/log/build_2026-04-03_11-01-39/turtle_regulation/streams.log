@@ -1,0 +1,35 @@
+[0.779s] Invoking command in '/home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/src/turtle_regulation': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_regulation build --build-base /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/build install --record /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/install.log --single-version-externally-managed install_data
+[1.012s] running egg_info
+[1.012s] creating ../../build/turtle_regulation/turtle_regulation.egg-info
+[1.029s] writing ../../build/turtle_regulation/turtle_regulation.egg-info/PKG-INFO
+[1.029s] writing dependency_links to ../../build/turtle_regulation/turtle_regulation.egg-info/dependency_links.txt
+[1.029s] writing requirements to ../../build/turtle_regulation/turtle_regulation.egg-info/requires.txt
+[1.029s] writing top-level names to ../../build/turtle_regulation/turtle_regulation.egg-info/top_level.txt
+[1.030s] writing manifest file '../../build/turtle_regulation/turtle_regulation.egg-info/SOURCES.txt'
+[1.064s] reading manifest file '../../build/turtle_regulation/turtle_regulation.egg-info/SOURCES.txt'
+[1.064s] writing manifest file '../../build/turtle_regulation/turtle_regulation.egg-info/SOURCES.txt'
+[1.065s] running build
+[1.065s] running build_py
+[1.065s] creating /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/build
+[1.065s] creating /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/build/lib
+[1.065s] creating /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/build/lib/turtle_regulation
+[1.065s] copying turtle_regulation/set_way_point.py -> /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/build/lib/turtle_regulation
+[1.065s] copying turtle_regulation/__init__.py -> /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/build/lib/turtle_regulation
+[1.065s] running install
+[1.071s] running install_lib
+[1.088s] creating /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/python3.12/site-packages/turtle_regulation
+[1.089s] copying /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/build/lib/turtle_regulation/set_way_point.py -> /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/python3.12/site-packages/turtle_regulation
+[1.089s] copying /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/build/lib/turtle_regulation/__init__.py -> /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/python3.12/site-packages/turtle_regulation
+[1.089s] byte-compiling /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/python3.12/site-packages/turtle_regulation/set_way_point.py to set_way_point.cpython-312.pyc
+[1.089s] byte-compiling /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/python3.12/site-packages/turtle_regulation/__init__.py to __init__.cpython-312.pyc
+[1.090s] running install_data
+[1.090s] creating /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/share/ament_index
+[1.090s] creating /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/share/ament_index/resource_index
+[1.090s] creating /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/share/ament_index/resource_index/packages
+[1.090s] copying resource/turtle_regulation -> /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/share/ament_index/resource_index/packages
+[1.090s] copying package.xml -> /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/share/turtle_regulation
+[1.090s] running install_egg_info
+[1.109s] Copying ../../build/turtle_regulation/turtle_regulation.egg-info to /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/python3.12/site-packages/turtle_regulation-0.0.0-py3.12.egg-info
+[1.110s] running install_scripts
+[1.226s] writing list of installed files to '/home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/install.log'
+[1.263s] Invoked command in '/home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/src/turtle_regulation' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/install/turtle_regulation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_regulation build --build-base /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/build install --record /home/mr-kajemba/turtle_regulation-Gabriel-Baraka_Kajemba/ros_ws/build/turtle_regulation/install.log --single-version-externally-managed install_data
